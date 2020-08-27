@@ -1,0 +1,15 @@
+# Project
+site_name: PoC Documentation v2
+site_description: PoC Documentation v2
+site_author: Diego Dalben
+
+nav:
+  - Getting started:
+    - Overview: ./getting-started/overview.md
+
+# Theme configuration
+theme: 
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+      - yaml
